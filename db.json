@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "configure server",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "name": "start server",
+      "isComplete": true
+    },
+    {
+      "id": 3,
+      "name": "Load data into app",
+      "isComplete": false
+    },
+    {
+      "id": 4,
+      "name": "Add records",
+      "isComplete": true
+    },
+    {
+      "id": 5,
+      "name": "update records",
+      "isComplete": true
+    },
+    {
+      "name": "HTML",
+      "isComplete": true,
+      "id": 6
+    },
+    {
+      "name": "CSS",
+      "isComplete": true,
+      "id": 7
+    },
+    {
+      "name": "JAVA",
+      "isComplete": false,
+      "id": 8
+    }
+  ]
+}
